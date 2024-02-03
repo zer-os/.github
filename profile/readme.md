@@ -1,5 +1,3 @@
-![](zeros.png)
-
 Building zer-os, zero days at a time
 
 ### team members
